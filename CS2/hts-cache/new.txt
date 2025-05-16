@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:02:59	26/26	---M--	200	added ('OK')	text/plain	etag:W/%221a-196d4719e10%22	https://webapp.rflblast.ru/robots.txt		(from )
+12:02:59	1817/1817	---MCZ	200	added ('OK')	text/html	etag:%221tf7u8mcx51eh%22	https://webapp.rflblast.ru/	C:/Users/farho/Desktop/CS2/CS2/webapp.rflblast.ru/index.html	(from )
+12:03:02	113893/113893	---MCZ	200	added ('OK')	application/javascript	etag:W/%2267f9380c-1bce5%22	https://telegram.org/js/telegram-web-app.js	C:/Users/farho/Desktop/CS2/CS2/telegram.org/js/telegram-web-app.js	(from https://webapp.rflblast.ru/)
